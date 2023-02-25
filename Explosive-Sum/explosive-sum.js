@@ -6,6 +6,7 @@ function sum(num) {
       dp[j] += dp[j - i];
     }
   }
-
   return dp[num];
 }
+
+console.log(sum(4));
