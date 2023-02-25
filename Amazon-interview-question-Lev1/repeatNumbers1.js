@@ -1,3 +1,4 @@
+//My solution #1 (with sorting)
 let repeatNumbers = (arr) => {
   let repNum = 0;
   let repNumArr = [];
